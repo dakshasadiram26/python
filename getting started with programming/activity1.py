@@ -1,0 +1,5 @@
+print("welcome to the world of programming!")
+print(4)
+print("how are you? \ni am fine")
+print('hello' , 5)
+print('my final message' , end='*')
