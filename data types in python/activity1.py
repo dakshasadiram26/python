@@ -8,4 +8,6 @@ active_status = True
 print("Name", name, type(name))
 print("Gadget", gadget, type(gadget))
 print("Agent number", agent_number , type(agent_number))
-print("hi " + name)
+print("Speed rating",speed_rating , type(speed_rating))
+print("Height", height, type(height))
+print("Active_status", active_status, type(active_status))
