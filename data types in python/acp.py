@@ -1,0 +1,5 @@
+name = input("Enter member name: ")
+club_name = input("Enter club name: ")
+member_number = input("Enter member number: ")
+points = input("Enter points: ")
+is_active = input("Is member active?")
